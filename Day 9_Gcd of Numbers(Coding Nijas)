@@ -1,0 +1,16 @@
+
+class gcd_numbers {
+    public static int gcd(int n,int m){
+        if(m==0){
+            return n;
+        }
+        else{
+            return gcd(m,n%m);
+        }
+    }
+    public static void main(String[] args) {
+       int a=20,b=8;
+       int n = gcd(a,b);
+       System.out.println(n);
+    }
+}
