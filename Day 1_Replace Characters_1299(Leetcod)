@@ -1,0 +1,29 @@
+class Solution {
+    public static int larg(int lar, int temp, int[] arr) {
+        int mar = temp;
+        for (int i = temp; i < arr.length; i++) {
+            if (arr[i] > lar) {
+                mar = i;
+                lar = arr[i];
+            }
+        }
+        return mar;
+    }
+
+    public int[] replaceElements(int[] arr) {
+        int n = arr.length;
+        int i = 0, j = i + 1, lar = 0, temp = 0;
+        while (i < n - 1  ) { // Adjusted loop condition
+            lar = arr[j];
+            temp = j;
+            int m = larg(lar, temp, arr);
+            arr[i] = arr[m];
+            i++;
+            j++;
+        }
+        if (i == n - 1) {
+            arr[i] = -1;
+        }
+        return arr;
+    }
+}
