@@ -1,0 +1,24 @@
+class HelloWorld {
+    public static void main(String[] args) {
+       int lar=0,s_lar=0,ts_lar=0;
+       int[] arr={0,4,2,5,1};
+       for(int i=0;i<arr.length;i++){
+           if(arr[i]>lar){
+               //ts_lar=s_lar;
+               s_lar=lar;
+               lar=arr[i];
+               continue;
+           }
+           if(s_lar<arr[i]){
+               //ts_lar=s_lar;
+               s_lar=arr[i];
+               continue;
+           }
+           /*if(ts_lar<arr[i]){
+               ts_lar=arr[i];
+               continue;
+           }*/
+       }
+       System.out.println(s_lar);
+    }
+}
