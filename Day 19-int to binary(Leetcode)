@@ -1,0 +1,14 @@
+
+class HelloWorld {
+    public static void main(String[] args) {
+        int n =13;
+        String s = new String();
+        while(n>0){
+            int r = n%2;
+            s+= String.valueOf(r);
+            n/=2;
+        }
+        StringBuilder s1 = new StringBuilder(s);
+        System.out.println(s1.reverse());
+    }
+}
