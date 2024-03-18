@@ -1,0 +1,13 @@
+char[] char_str = new char[s3.length()];
+        char_str=s3.toCharArray();
+        Arrays.sort(char_str);
+        char[] char_str2=s4.toCharArray();
+         Arrays.sort(char_str2);
+        String s7 = new String(char_str);
+        String s8 = new String(char_str2);
+        if(s7.equals(s8)){
+            return true;
+        }
+        else{
+            return false;
+        }
