@@ -1,0 +1,19 @@
+class Solution {
+    public boolean wordPattern(String pattern, String s) {
+        String str1 = "";
+        String str2 = "";
+        for(int i = 0; i<pattern.length();i++){
+            str1+=pattern.indexOf(pattern.charAt(i));
+        }
+        String[] s1 = s.split(" ");
+        List<String> lee = Arrays.asList(s1);
+        for(int i=0;i<s1.length;i++){
+            //String se =s1[i];
+            str2+=lee.indexOf(s1[i]);
+        }
+        System.out.print(str2);
+        if(str1.equals(str2))
+            return true;
+        return false;
+     }
+}
