@@ -1,0 +1,31 @@
+import java.util.*;
+public class Bin {
+    public static String bit(int n){
+        String s = "";
+        while(n>0){
+            int r = n%2;
+            s+=(String.valueOf(r));
+            n/=2;
+        }
+        StringBuilder sb = new StringBuilder(s);
+        String g = sb.reverse().toString();
+        //StringBuilder str = new StringBuilder();
+        System.out.println(g);
+        int m = g.length();
+        System.out.println(m);
+
+        StringBuilder sc = new StringBuilder();
+        for(int i = 0;i<(30-m);i++){
+            sc.append(0);
+        }
+        String result = sc.toString()+g;
+        //System.out.println(result);
+        return result;
+
+    }
+    public static void main(String[] args) {
+        String  m = bit(5);
+        System.out.println(m);
+    }
+
+}
