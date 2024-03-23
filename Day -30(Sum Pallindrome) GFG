@@ -1,0 +1,37 @@
+class Solution {
+    static long isSumPalindrome(long n){
+        // code here
+        long r,sum=0;
+        long temp=n;
+        long count=0;
+        long reversedNumber = 0;
+       while(count<6)
+       {
+           //reverse a number
+        reversedNumber= reverse(n);
+        // is palindrom
+        if(reversedNumber==n)
+          return n;
+        //if not add the reverse number to it
+        else
+        {
+            n=n+reversedNumber;
+            count++;
+           
+        } }
+     
+       return -1;
+    }
+    static long reverse(long temp)
+    {
+        long r = 0;
+        long sum = 0;
+        while(temp!=0)
+        {
+            r=temp%10;
+            sum=sum*10+r;
+            temp=temp/10;
+        }
+        return sum;
+    }
+}
