@@ -1,0 +1,25 @@
+
+
+class Solution {
+    public boolean isCovered(int[][] ranges, int left, int right) {
+        List<Integer> a = new ArrayList<>();
+        List<Integer> b = new ArrayList<>();
+        int fl = 0;
+        for (int[] range : ranges) {
+            for (int j = range[0]; j <= range[1]; j++) {
+                a.add(j);
+            }
+        }
+        for (int j = left; j <= right; j++) {
+            b.add(j);
+        }
+        for (int i : b) {
+            if (!a.contains(i)) {
+                fl = 1;
+                break;
+            }
+        }
+        return fl != 1;
+    }
+} 
+    
