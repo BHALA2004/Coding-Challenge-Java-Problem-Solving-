@@ -16,7 +16,8 @@ class Solution {
             }
             
             // Add the original string to the list corresponding to the sorted key
-            map.get(sortedStr).add(str);
+           List<String> collectionofpermutation = map.get(sortedStr);
+        collectionofpermutation.add(str);
         }
 
         // Output the grouped anagrams
