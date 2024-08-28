@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
