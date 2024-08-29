@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -46,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1019-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
