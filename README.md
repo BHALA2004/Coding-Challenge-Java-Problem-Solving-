@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
+| [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0633-sum-of-square-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
