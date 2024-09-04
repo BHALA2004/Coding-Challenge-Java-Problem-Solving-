@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0049-group-anagrams) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
