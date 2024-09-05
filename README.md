@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
+| [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
+| [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
