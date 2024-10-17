@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0633-sum-of-square-numbers) |
+| [1894-merge-strings-alternately](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
