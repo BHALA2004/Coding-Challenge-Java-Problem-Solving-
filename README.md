@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
 | [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
 | ------- |
