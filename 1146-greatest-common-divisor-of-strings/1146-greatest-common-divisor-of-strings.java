@@ -8,15 +8,18 @@ class Solution {
         }
     }
     public String gcdOfStrings(String str1, String str2) {
-      if (!(str1 + str2).equals(str2 + str1)) {
+        int k = 0;
+        if (!(str1 + str2).equals(str2 + str1)) {
             return "";
         }
-
-        // Step 2: Calculate GCD of lengths
-        int gcdLength = GCD(str1.length(), str2.length());
-
-        // Step 3: Return the substring of str1 with the length of the GCD
-        return str1.substring(0, gcdLength);
-
+        String result  = "";
+        int a = str1.length();int b = str2.length();
+        if(a>b){
+        k = GCD(a,b);}
+        else {
+            k = GCD(b,a);
+        }
+       
+        return str1.substring(0,k);
     }
 }
