@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
