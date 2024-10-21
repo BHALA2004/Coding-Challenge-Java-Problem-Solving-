@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1894-merge-strings-alternately) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0633-sum-of-square-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Queue
 |  |
 | ------- |
