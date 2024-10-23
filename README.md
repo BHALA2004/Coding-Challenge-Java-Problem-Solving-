@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1894-merge-strings-alternately) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1894-merge-strings-alternately) |
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
