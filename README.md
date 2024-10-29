@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
+| [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0061-rotate-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
