@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0061-rotate-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0061-rotate-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0061-rotate-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0061-rotate-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
