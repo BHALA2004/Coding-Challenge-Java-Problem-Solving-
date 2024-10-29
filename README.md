@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0061-rotate-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0061-rotate-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0061-rotate-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0061-rotate-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
