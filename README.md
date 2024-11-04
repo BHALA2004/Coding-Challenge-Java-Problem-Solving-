@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 | [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
