@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [0238-product-of-array-except-self](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
