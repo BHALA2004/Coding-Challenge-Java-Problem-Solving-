@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0643-maximum-average-subarray-i](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
