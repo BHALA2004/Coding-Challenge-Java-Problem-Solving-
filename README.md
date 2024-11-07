@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -141,9 +143,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
