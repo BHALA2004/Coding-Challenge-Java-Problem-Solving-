@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
