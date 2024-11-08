@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
