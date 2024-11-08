@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1319-unique-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
+| [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2215-finding-3-digit-even-numbers) |
 | [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
