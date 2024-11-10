@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
