@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1319-unique-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
+| [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
+| [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
