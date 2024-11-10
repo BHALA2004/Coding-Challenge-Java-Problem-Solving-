@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
+| [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
 | [0334-increasing-triplet-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0334-increasing-triplet-subsequence) |
+| [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
+| [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 ## Counting
 |  |
 | ------- |
