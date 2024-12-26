@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0069-sqrtx](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0069-sqrtx) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
