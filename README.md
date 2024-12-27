@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1319-unique-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sorting
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
