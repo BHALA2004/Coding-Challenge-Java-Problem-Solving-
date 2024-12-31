@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0792-binary-search) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 | [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0792-binary-search) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
