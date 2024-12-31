@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
