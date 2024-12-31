@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0792-binary-search) |
+| [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
+| [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [0069-sqrtx](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0792-binary-search) |
+| [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
