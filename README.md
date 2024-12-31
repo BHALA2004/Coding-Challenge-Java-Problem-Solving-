@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0792-binary-search) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
+| [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0056-merge-intervals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
+| [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
+| [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
