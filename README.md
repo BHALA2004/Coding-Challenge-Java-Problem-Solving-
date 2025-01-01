@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 | [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
+| [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
