@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0069-sqrtx](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0069-sqrtx) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [0050-powx-n](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0050-powx-n) |
 ## Queue
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0206-reverse-linked-list) |
+| [0050-powx-n](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0050-powx-n) |
 ## Prefix Sum
 |  |
 | ------- |
