@@ -10,7 +10,11 @@ class Solution {
             }
             if(!pq.isEmpty()){
                 int temp[] = pq.peek();
-                ans = Math.max(ans, temp[1] - temp[0] + points[i][0] + points[i][1]);
+                int x1 = temp[0];
+                int y1 = temp[1];
+                int x2 = points[i][0];
+                int y2 = points[i][1];
+                ans = Math.max(ans,y1+y2+Math.abs(x2-x1));
             }
             pq.offer(new int[]{points[i][0], points[i][1]});
         }
