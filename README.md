@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0605-can-place-flowers) |
 | [0334-increasing-triplet-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
+| [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0118-pascals-triangle](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0118-pascals-triangle) |
+| [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 ## Linked List
 |  |
 | ------- |
