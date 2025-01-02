@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
+| [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 ## Quickselect
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0969-number-of-recent-calls) |
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
+| [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 ## Matrix
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
