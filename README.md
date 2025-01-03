@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
+| [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0058-length-of-last-word) |
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
+| [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0069-sqrtx) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0050-powx-n](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0050-powx-n) |
+| [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 ## Queue
 |  |
 | ------- |
