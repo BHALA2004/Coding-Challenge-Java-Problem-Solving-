@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0058-length-of-last-word) |
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
+| [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
+| [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
 ## Greedy
 |  |
 | ------- |
