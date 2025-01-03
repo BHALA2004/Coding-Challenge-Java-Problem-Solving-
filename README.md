@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
