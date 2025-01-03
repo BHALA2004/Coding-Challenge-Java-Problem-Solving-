@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
+| [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
+| [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0050-powx-n](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0050-powx-n) |
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
+| [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 ## Queue
 |  |
 | ------- |
