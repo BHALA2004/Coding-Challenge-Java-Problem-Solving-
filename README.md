@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 | [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
+| [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 | [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
+| [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
