@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 | [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1078-remove-outermost-parentheses) |
 | [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0541-reverse-string-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 | [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
+| [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0118-pascals-triangle](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0118-pascals-triangle) |
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
+| [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -256,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
