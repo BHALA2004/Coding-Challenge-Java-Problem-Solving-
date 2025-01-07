@@ -9,7 +9,7 @@ class Solution {
             arr2[word2.charAt(i) - 'a']++;
         }
         for(int i = 0;i<26;i++){
-            if(arr1[i]>0 && arr2[i]==0 || arr2[i]>0 && arr2[i]==0){
+            if(arr1[i]>0 && arr2[i]==0 || arr2[i]>0 && arr1[i]==0){
                     return false;
             }
         }
