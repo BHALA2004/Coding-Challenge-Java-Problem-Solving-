@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
 | [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0071-simplify-path) |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0649-dota2-senate) |
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0118-pascals-triangle) |
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
