@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1622-max-value-of-equation) |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
+| [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -265,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
