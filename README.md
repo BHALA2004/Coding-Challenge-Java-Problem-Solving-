@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
+| [0063-unique-paths-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
 | [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [0073-set-matrix-zeroes](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
+| [0063-unique-paths-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
