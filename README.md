@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0050-powx-n) |
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 | [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
 ## Queue
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0055-jump-game) |
 | [0042-trapping-rain-water](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
+| [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
