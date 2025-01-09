@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0200-number-of-islands) |
 | [0063-unique-paths-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0136-single-number) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0678-valid-parenthesis-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
