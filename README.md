@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0136-single-number) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0978-valid-mountain-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
