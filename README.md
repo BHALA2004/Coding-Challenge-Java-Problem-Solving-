@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0136-single-number) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0978-valid-mountain-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0978-valid-mountain-array) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 | [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0409-longest-palindrome) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [0075-sort-colors](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0013-roman-to-integer) |
 | [0012-integer-to-roman](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0287-find-the-duplicate-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0287-find-the-duplicate-number) |
 | [0136-single-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/BHALA2004/50-Days-Challenge-Java/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
